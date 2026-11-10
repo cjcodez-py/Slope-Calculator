@@ -1,2 +1,2 @@
 # Slope-Calculator
-This Account
+The Account's first project. Basic math and conditionals.
